@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanSofi18
-- 👀 I’m interested in programa...
-- 🌱 I’m currently learning java, sql.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Jira, testlink, mantis
+- 🌱 I’m currently learning java, sql, Jira, Mantis, Testlink
+- 💞️ I’m looking to collaborate on Qtesting
 - 📫 How to reach me ...
 
 <!---
